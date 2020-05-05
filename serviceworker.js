@@ -7,8 +7,8 @@ const urlsToCache = [
     './assets/img/fresh.png',
     './assets/img/nice.png',
     './favicon.png',
-    './css/style.css',
-    'https://volodymyrkushnir.com/assets/stylesheets/base.css'
+    'https://volodymyrkushnir.com/assets/stylesheets/base.css',
+    './css/style.css'
 ];
 
 self.addEventListener('install', function(event) {
