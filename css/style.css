@@ -1,0 +1,41 @@
+.avatar-wrapper img:hover {
+    content: url('../assets/img/flex.gif');
+}
+
+.timeline p {
+    line-height: 1.3rem;
+    font-size: 1.1rem;
+    letter-spacing: 0.05rem;
+}
+
+h5 span img {
+    width: 5%;
+    vertical-align: middle;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    -webkit-transition: all 1s ease-out;
+}
+
+h5 span img:hover {
+    -webkit-transform: scale(3.1);
+    -moz-transform: scale(3.1);
+    -o-transform: scale(3.1);
+}
+
+section p {
+    line-height: 1.3rem;
+    font-size: 1.1rem;
+    letter-spacing: 0.05rem;
+}
+
+.youtube:hover {
+    color: red;
+}
+
+.instagram:hover {
+    color: #b827fc;
+}
+
+.timeline-point p {
+    margin-left: 10px !important;
+}
